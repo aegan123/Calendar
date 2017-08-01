@@ -1,2 +1,2 @@
 # Calendar
-Project for a cource in university
+Project for a course in university
